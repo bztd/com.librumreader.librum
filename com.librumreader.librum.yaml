@@ -1,6 +1,6 @@
 app-id: com.librumreader.librum
 runtime: org.kde.Platform
-runtime-version: '6.7'
+runtime-version: '6.9'
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.llvm18
 sdk: org.kde.Sdk
